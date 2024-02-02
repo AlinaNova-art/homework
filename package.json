@@ -3,7 +3,11 @@
   "homepage": "https://alinanova-art.github.io/homework/",
   "version": "0.1.0",
   "private": true,
+  "description": "A packaged foo fooer for fooing foos",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -44,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "prettier": "3.0.0"
   }
 }
