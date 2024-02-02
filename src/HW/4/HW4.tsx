@@ -22,7 +22,7 @@ export const HW4 = () => {
     setCurrentText('');
   };
 
-  return (
+  return ( 
     <div id={'hw04'}>
       {currentText ? (
         <h1 id={'hw04-text'}>{currentText}</h1>
